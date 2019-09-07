@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.09.10 11:00:19.750.pas,C:\Documents and Settings\pavel.RUOFFICE\Мои документы\Borland Studio Projects\Unit1.pas=D:\development\NewTechCreator\Unit1.pas</Transaction>
+    <Transaction>2007.09.10 11:00:19.750.dfm,C:\Documents and Settings\pavel.RUOFFICE\Мои документы\Borland Studio Projects\Unit1.dfm=D:\development\NewTechCreator\Unit1.dfm</Transaction>
+    <Transaction>2007.09.10 15:24:53.468.bdsproj,C:\Documents and Settings\pavel.RUOFFICE\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\development\NewTechCreator\Project1.bdsproj</Transaction>
+    <Transaction>2007.09.10 15:31:22.484.pas,D:\development\NewTechCreator\Unit2.pas=D:\development\NewTechCreator\Unit3.pas</Transaction>
+    <Transaction>2007.09.10 15:31:22.484.dfm,D:\development\NewTechCreator\Unit2.dfm=D:\development\NewTechCreator\Unit3.dfm</Transaction>
+    <Transaction>2007.09.10 15:33:00.281.pas,D:\development\NewTechCreator\Unit2.pas=D:\development\NewTechCreator\Unit6.pas</Transaction>
+    <Transaction>2007.09.10 15:33:00.281.dfm,D:\development\NewTechCreator\Unit2.dfm=D:\development\NewTechCreator\Unit6.dfm</Transaction>
+    <Transaction>2007.09.10 15:40:25.562.pas,D:\development\NewTechCreator\Unit7.pas=D:\development\NewTechCreator\Unit8.pas</Transaction>
+    <Transaction>2007.09.10 15:40:25.562.dfm,D:\development\NewTechCreator\Unit7.dfm=D:\development\NewTechCreator\Unit8.dfm</Transaction>
+    <Transaction>2007.09.10 15:53:01.562.pas,D:\development\NewTechCreator\Unit7.pas=D:\development\NewTechCreator\DM.pas</Transaction>
+    <Transaction>2007.09.10 15:53:01.562.dfm,D:\development\NewTechCreator\Unit7.dfm=D:\development\NewTechCreator\DM.dfm</Transaction>
+    <Transaction>2007.09.10 15:53:59.125.pas,D:\development\NewTechCreator\DM.pas=D:\development\NewTechCreator\DMmodel.pas</Transaction>
+    <Transaction>2007.09.10 15:53:59.125.dfm,D:\development\NewTechCreator\DM.dfm=D:\development\NewTechCreator\DMmodel.dfm</Transaction>
+    <Transaction>2009.07.20 18:54:56.559.pas,D:\development\Model\NewTechCreator\Unit7.pas=D:\development\Model\NewTechCreator\UpManagerUnit.pas</Transaction>
+    <Transaction>2009.07.20 18:54:56.559.dfm,D:\development\Model\NewTechCreator\Unit7.dfm=D:\development\Model\NewTechCreator\UpManagerUnit.dfm</Transaction>
+    <Transaction>2010.02.16 13:11:38.656.pas,D:\development\Model\NewTechCreator\Unit7.pas=D:\development\Model\NewTechCreator\Limit.pas</Transaction>
+    <Transaction>2010.02.16 13:11:38.656.dfm,D:\development\Model\NewTechCreator\Unit7.dfm=D:\development\Model\NewTechCreator\Limit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
